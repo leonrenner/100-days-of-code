@@ -18,3 +18,8 @@ to remove specific sections.
 It was a fiddly work, but I finally figured it out. 
 
 https://twitter.com/WebsiteNmedia/status/1187833000052101120?ref_src=twsrc%5Etfw
+
+## R1D3
+**Today's progress:** Learned how to connect an Android app with a Parse server and worked on my website.
+
+https://twitter.com/WebsiteNmedia/status/1188125172974403585?ref_src=twsrc%5Etfw
