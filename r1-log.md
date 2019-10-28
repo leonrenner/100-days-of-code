@@ -24,7 +24,7 @@ https://twitter.com/WebsiteNmedia/status/1187833000052101120?ref_src=twsrc%5Etfw
 
 https://twitter.com/WebsiteNmedia/status/1188125172974403585?ref_src=twsrc%5Etfw
 
-###R1D4
+### R1D4
 **Today's progress:** Implemented user login and sign up in an Android app with a 
 Parse server and migrated the app to AndroidX
 
