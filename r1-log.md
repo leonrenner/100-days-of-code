@@ -64,3 +64,40 @@ save the whole SQL database in an ArrayList and read from the ArrayList, or dire
 ### R1D15
 **Today's progress:** Worked on SQL queries and wondering if a huge query is better (performance) to get all the information at once,
 or if I should create multiple queries, temporarily store the results of these queries and then bind them together.
+
+### R1D16
+**Today's progress:** Implemented transactions into my AndroidStudio project. A couple of more days and the code for the 
+MainActivity should be finished.
+
+### R1D17
+**Today's progress:** Implemented another SQL query in my AndroidStudio project and tried to set up a background task which get's killed 
+when the activity is killed. Still not sure if it works the way I want.
+
+### R1D18
+**Today's progress:** Worked around 6 hours on a problem which was actually pretty easy to solve
+
+### R1D19
+**Today's progress:** Set up a new activity in a project. Found the function View.GONE in AndroidStudio (awesome), managed to get the softInput-keyboard 
+shown exactly when I want it to be shown and lots of other stuff.
+Today was easier than the last days . Can't complain.
+
+### R1D20
+**Today's progress:** Didn't really code much interesting stuff today. Just worked on the XML files and implemented a couple of new connections to the database.
+
+### R1D21
+**Today's progress:** Implemented insert-, delete- and onClick-methods for a RecyclerView in AndroidStudio which is connected to a Room database. 
+Was a bit of a challenge, as I wanted to change the item positions in the RecyclerView in a specific way depending on input.
+
+### R1D22
+**Today's progress:** Just worked on a TextWatcher in AndroidStudio to show errors when the user doesn't input the correct date format.
+
+### R1D23&D24
+**Today's progress:** Implemented a settings activity in my AndroidStudio project. 
+Somehow my code is not getting cleaner... 
+
+### R1D25
+**Today's progress:** Implemented a RecyclerView in AndroidStudio. It's for editing and ordering categories and it has a drag and drop function. All changes are of 
+course saved to the database (Room). Took me quite a time for this.
+
+### R1D25
+**Today's progress:**
